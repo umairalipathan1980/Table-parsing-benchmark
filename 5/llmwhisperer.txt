@@ -1,0 +1,133 @@
+
+
+                                                                                           22 October 2026 at 8:00 EET 
+KESTORA GROUP                                                                                  Stock exchange release 
+
+Interim             report January-September 2026 
+Q3: Revenue up 6.4%, EBIT margin improved to 8.7% - guidance raised 
+
+JULY-SEPTEMBER 2026 IN BRIEF 
+
+   Revenue                               EBIT                                   EBIT margin 
+
+   EUR 48.2 m                +6.4%       EUR 4.2 m                +27.3%        8.7%                     +1.4 pp 
+   Q3/2025: EUR 45.3 m                   Q3/2025: EUR 3.3 m                     Q3/2025: 7.3% 
+
+   Order backlog                         Operating cash flow                    Earnings per share 
+
+   EUR 62.5 m                +9.1%       EUR 6.1 m                              EUR 0.24 
+   30 Sep 2025: EUR 57.3 m               Q3/2025: EUR 3.9 m                     Q3/2025: EUR 0.18 
+
+CEO REVIEW 
+                                                                               OUTLOOK 2026 (RAISED) 
+"Our third quarter was the strongest   service revenue and lower freight 
+in the company's history. Revenue      costs. Group costs remained at EUR      Kestora expects revenue for 2026 to 
+grew by 6.4 per cent to EUR 48.2       0.5 million for the quarter. Operating grow by 5-8 per cent (previously: 3-6 
+million, driven by Site Services,      cash flow was EUR 6.1 million,          per cent) and the EBIT margin to be 
+where revenue increased by 9.1 per     compared with EUR 3.9 million a year    7.0-8.0 per cent (previously: 6.5-7.5 
+                                                                               per cent). The outlook assumes no 
+cent as several large construction     earlier, as inventory levels normalised 
+                                                                               material change in construction activity 
+projects in the Helsinki region moved after the spring peak. Our order 
+                                                                               in Finland during the fourth quarter. 
+into the frame phase. Industrial       backlog reached a record EUR 62.5 
+                                                                               2025 comparison: 
+Supply grew by 5.0 per cent despite    million at the end of September. 
+                                                                               revenue EUR 178.4 m, EBIT margin 7.0% 
+softer demand in Sweden. EBIT rose     Based on the strong development in 
+to EUR 4.2 million and the EBIT       January-September and the healthy 
+margin improved by 1.4 percentage      order backlog, we are raising our 
+points to 8.7 per cent. The            guidance for 2026. I want to thank 
+improvement came from better           our customers and our 412 employees 
+pricing discipline, a higher share of for their commitment." 
+                                       Mika Rantanen, President and CEO 
+
+REVENUE AND EBIT MARGIN BY QUARTER                            Revenue, EUR m            EBIT margin, % (right axis) 
+ EUR m 
+    80                                                                                                       10% 
+                                                                                               8.7% 
+                                   7.8% 
+               7.3%                                                        7.4% 
+    60                                                                                                       7.5% 
+                                                       6.1% 
+
+                                   47.4                                    47.3                 48.2 
+    40         45.3                                    44.1                                                  5% 
+
+    20                                                                                                       2.5% 
+
+     0                                                                                                       0% 
+               Q3/25               Q4/25               Q1/26               Q2/26               Q3/26 
+Figures for Q3/25 and Q4/25 restated to exclude the divested rental unit, see note 1 on page 2. 
+
+Kestora Group . Interim report January-September 2026                                                             1 
+                                   Sample document for parser testing - fictional company and figures 
+<<<
+
+KESTORA GROUP                                                                                            Interim report January-September 2026 
+
+Consolidated income statement (condensed)                                                                                              EUR million 
+
+                                                                     July-September                       January-September             Full year 
+                                                              2026           2025 1    Change, %              2026          2025 1            2025 1 
+
+Revenue                                                        48.2         45.3               6.4           139.6         131.0             178.4 
+   Materials and services                                    (27.9)        (26.6)                            (81.3)        (77.2)           (105.0) 
+   Employee benefit expenses                                  (11.4)       (10.8)                            (33.9)        (31.6)            (42.9) 
+   Other operating expenses                                    (3.6)         (3.5)                           (10.6)        (10.1)            (13.8) 
+   Other operating income                                        0.3          0.2                               0.7           0.6               1.1 
+EBITDA                                                          5.6           4.6             21.7            14.5          12.7              17.8 
+   Depreciation and amortisation                               (1.4)         (1.3)                             (4.1)        (3.9)              (5.3) 
+Operating profit (EBIT)                                         4.2           3.3             27.3             10.4           8.8             12.5 
+   EBIT margin, %                                                8.7          7.3                               7.4           6.7               7.0 
+   Financial income and expenses, net                          (0.4)         (0.5)                             (1.2)        (1.4)              (1.9) 
+Profit before taxes                                             3.8           2.8             35.7              9.2           7.4             10.6 
+   Income taxes                                                (0.8)         (0.6)                             (1.9)         (1.5)             (2.2) 
+Profit for the period                                           3.0           2.2             36.4              7.3           5.9               8.4 
+   Earnings per share, EUR 2                                   0.24          0.18                              0.58          0.47              0.67 
+
+Segment information                                                                                                                     EUR million 
+
+                                                              Q3/2026          Q3/2025 1     1-9/2026         1-9/2025 1                 Change, % 
+
+Industrial Supply 
+   Revenue                                                         31.4            29.9            91.2            86.1                         5.9 
+   EBIT                                                             3.1             2.6             7.9             6.8                        16.2 
+   EBIT margin, %                                                   9.9             8.7             8.7             7.9 
+
+Site Services 
+   Revenue                                                         16.8            15.4            48.4            44.9                         7.8 
+   EBIT                                                             1.6             1.2             4.0             3.4                        17.6 
+   EBIT margin, %                                                   9.5             7.8             8.3              7.6 
+
+Group costs and eliminations 
+   EBIT                                                            (0.5)           (0.5)           (1.5)           (1.4) 
+
+Group total 
+   Revenue                                                         48.2            45.3           139.6           131.0                         6.6 
+   EBIT                                                             4.2             3.3            10.4              8.8                       18.2 
+
+Change, % refers to January-September 2026 compared with January-September 2025. 
+
+Revenue by region, January-September 2026 
+
+                                                                      EUR m       Share, %       Change, % 
+
+             8%                                Finland                   81.0          58.0               5.2 
+      13%                                      Sweden                    29.3          21.0               4.6 
+                                               Baltics                   18.1          13.0             14.6 
+                EUR 
+            139.6 m                            Other countries           11.2           8.0               9.8 
+                           58% 
+    21% 
+                                               Total                   139.6         100.0               6.6 
+
+1) Comparative figures for 2025 have been restated to exclude the rental equipment unit divested on 30 April 2026. Previously reported revenue for 
+January-September 2025 was EUR 134.8 million and EBIT EUR 9.1 million. 
+2) Basic and diluted. Average number of shares outstanding 12,500,000 (12,500,000). 
+This interim report has not been audited. All figures are rounded, so the sum of individual figures may differ from the total shown. Figures in brackets refer to 
+the comparison period unless stated otherwise. 
+
+Kestora Group . Interim report January-September 2026                                                                                              2 
+                                             Sample document for parser testing - fictional company and figures 
+<<<

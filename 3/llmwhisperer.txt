@@ -1,0 +1,145 @@
+
+
+            KESTORA                                                                                                    INVOICE 
+   K        Industrial Supply Oy                                                                                             LASKU · Original 
+            Safety · Tools · Site services 
+
+INVOICE TO / LASKUTUSOSOITE           DELIVER TO / TOIMITUSOSOITE               Invoice no. / Laskun nro                         2026-10482 
+Nordic Build Solutions Oy             Nordic Build Solutions Oy 
+                                                                                Invoice date / Laskun pvm                         31.05.2026 
+Accounts Payable                      Harbour Tower site, gate 2 
+                                                                                                                           12.05 .- 16.05.2026 
+PL 118                                Satamakatu 8                              Delivery period / Toimitusaika 
+00101 Helsinki                        00160 Helsinki                            Due date / Eräpäivä                               30.06.2026 
+E-invoice: 003727182818               Attn. Anna Virtanen                       Payment terms / Maksuehto                         30 days net 
+
+                                                                                Late interest / Viivästyskorko    Interest Act (ref. rate + 8 %) 
+                                                                                Customer no. / Asiakasnro                              30418 
+                                                                                Buyer's VAT no.                                  FI27182818 
+                                                                                Your order no. / Tilausnro             4500-1187, 4500-1192 
+                                                                                Your reference / Viitteenne                    Anna Virtanen 
+PROJECT / TYÖMAA 
+                                                                                Our reference / Viitteemme                    Mika Rantanen 
+NBS-2025-118 Harbour Tower, frame phase 
+                                                                                Delivery terms / Toimitusehto   DAP Helsinki (Incoterms 2020) 
+Partial delivery. Backordered items will be delivered and invoiced              Reference no. / Viitenumero                     20261 04823 
+separately. Prices excl. VAT unless stated otherwise. 
+
+                                                                  Quantity / Määrä 
+ #   Item no.   Description / Nimike                                                   Unit      Unit price Disc. % VAT %         Amount EUR 
+                                                              Ordered    Deliv.   B/O 
+ Delivery note DN-58821 · delivered 12.05.2026 · your order 4500-1187 
+ 1   10045      Fire extinguisher 6 kg ABC (EN 3), incl. wall      4        3       1 pcs            89,00      10    25,5             240,30 
+                bracket 
+                Serial nos. FX6-24-1187, FX6-24-1188, FX6-24-1189 
+ 2   10052      Fire extinguisher sign, photoluminescent, 200 x    4        4       0 pcs             6,40            25,5              25,60 
+                200 mm 
+ 3   20310      Safety helmet EN 397, white, with chin strap      20       20       0 pcs            14,50            25,5             290,00 
+ 4   20330      Helmet visor, clear, EN 166                       10       10       0 pcs            11,20            25,5             112,00 
+ 5   20455      Hi-vis vest class 2, size L                       15       15       0 pcs             7,90            25,5             118,50 
+ 6   20456      Hi-vis vest class 2, size XL                      10       10       0 pcs             7,90            25,5              79,00 
+ 7   31120      Edge protection post, galvanised, 1.2 m           40       40       0 pcs            18,40       5    25,5             699,20 
+ 8   31125      Toe board, timber, 3 m                            30       30       0 pcs            12,60            25,5             378,00 
+ 9   31140      Guardrail clamp, adjustable 40-60 mm              80       80       0 pcs             3,85       5    25,5             292,60 
+ 10 31200       Safety net 6 x 10 m, EN 1263-1, with tie ropes     3        2       1 pcs           189,00       5    25,5             359,10 
+                Test certificate SN-2604-118 enclosed with delivery 
+ 11 20120       Safety gloves, cut level C, size 9                24       24       0 pair            6,80            25,5             163,20 
+ 12 20125       Safety gloves, cut level C, size 10               24       24       0 pair            6,80            25,5             163,20 
+ 13 20510       Hearing protector, helmet-mounted, SNR 30 dB      10       10       0 pcs            24,50       5    25,5             232,75 
+ 14 20600       Safety glasses, anti-fog, clear lens              20       20       0 pcs             5,90            25,5             118,00 
+ 15 20610       Safety goggles, indirect vent, EN 166 3/4/5        6         6      0 pcs            12,40            25,5              74,40 
+ 16 20700       Knee pads, gel, professional                       8        8       0 pair           18,90       5    25,5             143,64 
+                                                                                         Subtotal DN-58821                           3 489,49 
+
+ Delivery note DN-58907 · delivered 15.05.2026 · your order 4500-1192 
+ 17 40260       Eye wash refill, 500 ml, sterile                   6        6       0 pcs             8,75            25,5              52,50 
+                Batch EW-2603-02 . best before 03/2028 
+                                                                                                                24? 25,5               184,00 
+ 18 50880       Cable hook system, 10 hooks per set               12        8   [X] 4 set            23,00 WK 
+ 19 51010       Extension cable 25 m, IP44, H07RN-F 3G1.5          6         6      0 pcs            41,90       8    25,5             231,29 
+ 20 51200       LED work light 50 W with tripod                    4        4       0 pcs            59,00       8    25,5             217,12 
+ 21 51220       Spare battery pack 18 V for LED work light         4        4       0 pcs            34,90       8    25,5             128,43 
+ 22 51300       Warning tape, red/white, 250 m                    12        12      0 roll            4,20            25,5              50,40 
+ 23 51310       Temporary fence panel 3.5 x 2 m, incl. concrete   20       20       0 pcs            46,00      10    25,5             828,00 
+                base 
+ 24 40210       First aid kit, construction site, DIN 13169        2        2       0 pcs            64,90            25,5             129,80 
+
+                                                                                     Carried forward / Siirto                        5 311,03 
+
+                                                                                                                                     Page 1 / 2 
+
+Kestora Industrial Supply Oy        Tel. +358 9 555 0100               Business ID 3141592-6              Example Bank Finland 
+Teollisuuskatu 14                   ar@kestora.example                 VAT no. FI31415926                 IBAN FI00 1234 5600 0007 85 
+01510 Vantaa, Finland               www.kestora.example                Domicile Vantaa                    BIC EXMPFIHH 
+
+                                            Sample document for parser testing - fictional companies and bank details 
+<<<
+
+KESTORA Industrial Supply Oy                                                                              Invoice 2026-10482 - 31.05.2026 · Customer 30418 
+
+                                                                            Quantity / Määrä 
+ #    Item no.     Description / Nimike                                                             Unit        Unit price Disc. %    VAT %           Amount EUR 
+                                                                       Ordered      Deliv.     B/O 
+                                                                                                 Brought forward / Siirto                                5 311,03 
+                   Batch L2604-17 · best before 04/2029 
+                                                                                                       Subtotal DN-58907                                 1 821,54 
+
+ Services · performed at Harbour Tower site 
+
+ 25    S-100       Scaffolding inspection by certified inspector,                     3,5           h               72,00               25,5               252,00 
+                   14.05.2026 
+ 26   S-210        On-site training: working at heights (max. 12                        1           session        480,00               25,5               480,00 
+                   participants), 16.05.2026 
+ Site welfare 
+
+ 27   60100        Bottled water 0.5 l, 24-pack                             10         10        0 pack              9,60                 14                96,00 
+ Adjustments 
+ 28   CR-2231      Credit: damaged toe boards returned                                 -4           pcs             12,60               25,5                -50,40 
+                   (RMA-2231), ref. DN-58821 item 31125 
+ 29    FRT         Freight and handling, 2 deliveries (DN-58821,                        2           deliv.          35,00               25,5                70,00 
+                   DN-58907) 
+
+VAT SUMMARY / ARVONLISÄVEROERITTELY 
+                                                                                              Total excl. VAT / Veroton yhteensä                          6 158,63 
+  VAT %                            Net                VAT                  Gross 
+                                                                                              VAT / ALV 25,5 %                                            1 545,97 
+  25,5                       6 062,63             1 545,97              7 608,60 
+  14                             96,00               13,44                109,44              VAT / ALV 14 %                                                 13,44 
+  Total                      6 158,63             1 559,41              7 718,04              Total incl. VAT / Yhteensä                                  7 718,04 
+                                                                                              Less advance payment, inv. 2026-10377 (paid 20.04.2026)    -1 000,00 
+
+                                                                                              AMOUNT DUE / MAKSETTAVAA EUR                           6 718,04 
+
+    APPROVED FOR PAYMENT 
+    Cost centre 
+                             118-HT 
+    GL account 
+                             4410 / 4415 
+   Project 
+                             NB5-2025-118 
+   Approved by / date        A. 
+                                 Virtanen        03.06.2026 
+
+  PAYMENT DETAILS / MAKSUTIEDOT 
+
+  Recipient / Saaja      Kestora Industrial Supply Oy                                         Reference / Viite        20261 04823 
+  Bank / Pankki          Example Bank Finland                                                 Due date / Eräpäivä      30.06.2026 
+  IBAN                   FI00 1234 5600 0007 85                                               Amount / Euroa           6 718,04 
+   BIC                   EXMPFIHH                                                             Invoice no.              2026-10482 
+
+                                                                                                   400123456000007850067180400000000000002026104823260630 
+
+ TERMS / EHDOT 
+ Payment within 30 days net from invoice date. Please use the reference number when and before the goods are used. Title to the goods remains with the seller until the invoice 
+ paying; payments without a reference may be delayed. Late payment interest is charged has been paid in full. Backordered items are delivered and invoiced separately and do 
+ according to the Finnish Interest Act. A reminder fee of EUR 5,00 applies to each not affect the due date of this invoice. Returns are accepted only with an RMA number 
+ reminder. Complaints regarding delivered goods must be made within 8 days of receipt issued by Kestora customer service and in original packaging. 
+
+                                                                                                                                                         Page 2 / 2 
+
+ Kestora Industrial Supply Oy            Tel. +358 9 555 0100                     Business ID 3141592-6                    Example Bank Finland 
+ Teollisuuskatu 14                       ar@kestora.example                       VAT no. FI31415926                       IBAN FI00 1234 5600 0007 85 
+ 01510 Vantaa, Finland                   www.kestora.example                      Domicile Vantaa                          BIC EXMPFIHH 
+
+                                                   Sample document for parser testing - fictional companies and bank details 
+<<<

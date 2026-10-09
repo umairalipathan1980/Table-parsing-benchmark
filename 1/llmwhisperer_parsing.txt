@@ -1,0 +1,142 @@
+ 1   Sender (name, address, country) / Lähettäjä / Absender 
+                                                                                              INTERNATIONAL CONSIGNMENT NOTE                                            CMR 
+   HALLBERG SICHERHEITSTECHNIK GMBH 
+   Logistikzentrum Tor 4                                                                      Kansainvälinen rahtikirja · Internationaler Frachtbrief 
+   Am Holzhafen 17                                                                            No.   DE     0418      2026       557 
+   28197 Bremen 
+   GERMANY                                                                                    3 Copy for consignee / Vastaanottajan kappale / Exemplar für den Empfänger 
+                                                                                               This carriage is subject to the Convention on the Contract for the International Carriage of Goods by Road (CMR). 
+ 2   Consignee (name, address, country) / Vastaanottaja / Empfänger                          16 Carrier (name, address, country) / Rahdinkuljettaja / Frachtführer 
+   KESTORA INDUSTRIAL SUPPLY OY                                                               BALTIC LINEHAUL OY 
+   Goods receiving, door 6                                                                     Satamatie 4 
+   Teollisuuskatu 14                                                                           48100 Kotka, FINLAND 
+   01510 Vantaa                                                                               Tractor KTR-118 / Trailer XLF-731 
+   FINLAND 
+ 3 Place of delivery of the goods (place, country) / Luovutuspaikka / Auslieferungsort       17 Successive carriers / Seuraavat rahdinkuljettajat / Nachfolgende Frachtführer 
+
+   Vantaa, FINLAND                                                                            Ostsee RoRo Line, Travemuende-Helsinki 19.05.2026 
+
+ 4 Place and date of taking over the goods / Vastaanottopaikka ja -aika / Ort und Tag der Übernahme 18 Carrier's reservations and observations / Rahdinkuljettajan varaumat / Vorbehalte 
+
+   Bremen, GERMANY                      18.05.2026                                            Shipper's load & count - pallets not counted 
+
+ 5   Documents attached / Liitteet / Beigefügte Dokumente                                     I PAL ( no. 15) stretch wrap torn at loading 
+   Comm. invoice HST-RE-26-0931 
+                                                                                                                                                                          J.S. 
+   Packing list PL-2604-118; ADR doc. 
+ 6 Marks and Nos                 7 Number of      8 Method of        9 Nature of the goods                                      10 Statistical     11 Gross weight kg 12 Volume m3 
+   Merkit ja nrot                  packages          packing           Tavaran laatu                                               number              Bruttopaino kg    Tilavuus m3 
+                                 Kolliluku         Pakkaustapa                                                                  Tilastonumero 
+
+ HST-2604/01-14                             14     EUR pallet         Personal protective equipment :                           see PL                  2 790,0               21,50 
+                                                                     helmets, hi-vis vests, gloves, 
+                                                                     hearing protectors, safety nets 
+
+ HST-2604/15-20                               6    EUR pallet         Fire extinguishers, portable,                             8424 10 00              2 088,0                9,22 
+                                                                      6 kg ABC powder 
+
+ HST-2604/21-22                               2    EUR pallet        Marking paint in aerosol cans,                             3208 90 19                 536,0               3,07 
+                                                                      500 ml 
+
+                                            22                                                                                  Total / Yht.            5 414,0               33,79 
+ Class / Luokka                Number / Numero             Letter / Kirjain            (ADR*) 
+ 2.1                           UN 1950                      (D)                        UN 1950 AEROSOLS, 2.1, LQ - limited quantity, 2 PAL 
+
+ 13 Sender's instructions / Lähettäjän ohjeet / Anweisungen des Absenders                    19 Special agreements / Erityiset sopimukset / Besondere Vereinbarungen 
+   Export decl. MRN 26DE418200001172B6                                                        DAP Vantaa (Incoterms 2020) 
+   Import clearance by consignee's broker                                                     Delivery window 21.05.2026 07:00-12:00 
+   Keep dry. Do not stack aerosol pallets.                                                     Tail-lift required 
+
+ 14 Directions as to payment / Maksuohjeet / Frachtzahlungsanweisungen                       20 To be paid by / Maksaja / Zu zahlen vom 
+                                                                                                                             Sender              Currency Consignee 
+    [X] Carriage paid / Vapaasti / frei   [ ] Carriage forward / Maksetaan perillä / unfrei 
+                                                                                             Carriage charges                     2 450,00       EUR 
+ 15 Cash on delivery / Jälkivaatimus / Rückerstattung                                        Deductions 
+
+   ---                                                                                       Balance                              2 450,00       EUR 
+                                                                                             Supplements (ferry)                     380,00      EUR 
+ 21 Established in / Laadittu / Ausgefertigt in                                              Additional charges (ADR)                  95,00     EUR 
+   Bremen                             on / pvm/ am   18.05.2026                              Miscellaneous 
+                                                                                             Total / Yhteensä                     2 925,00       EUR 
+
+ 22 Signature and stamp of the sender / Lähettäjän allekirjoitus 23 Signature and stamp of the carrier / Rahdinkuljettajan allekirjoitus 24 Goods received / Tavara vastaanotettu / Gut empfangen 
+
+                                                                BALTIC LINEHAUL OY                                          Place / Paikka Vantaa 
+                                                                Driver / Kuljettaja: J. Salonen                             Date / Pvm      21.5.2026 
+        HALLBERG                                                                                                            Arrival / Saapui 08:40           Departure 10:15 
+                     SICHERHEITSTECHNIK GMBH 
+                Am Holzhafen 17 · 28197 
+                                       Bremen                                                                               21 PAL received - PAL 22 missing! 
+                      Versand / Shipping 
+                                                                                                                            PAL 15 wrap torn, content OK 
+                                                                      J     Salonen 
+                                                                                                                                                                  SUPPLY OY 
+           K.     Brandt                                                                                                               KESTORA INDUSTRIAL 
+                                                                                                                                                Goods receiving · Vantaa 
+                                                                                                                                                             T. Niemi 
+
+* ADR = European Agreement concerning the International Carriage of Dangerous Goods by Road. 
+
+                                                     Sample document for parser testing - fictional companies, vehicles and references 
+<<<
+
+HALLBERG SICHERHEITSTECHNIK GMBH                                                                                     PACKING LIST 
+Am Holzhafen 17 · 28197 Bremen · Germany · versand@hallberg-st.example                                                     Packliste / Pakkausluettelo 
+
+ Packing list no.    PL-2604-118                                            Consignee      Kestora Industrial Supply Oy, Vantaa 
+ Date                 18.05.2026                                            CMR no.        DE 0418 2026 557 
+ Commercial invoice   HST-RE-26-0931                                        Carrier        Baltic Linehaul Oy 
+ Customer order      Kestora PO 7700-2291                                   Incoterms      DAP Vantaa (Incoterms 2020) 
+
+ Pallet   SSCC                          Art. no. Description                                 Ctns        Qty     Net kg Gross kg Received 
+ 01       (00) 340999990000000013       20310     Safety helmet EN 397, white                  10        200       90,0      128,0 [X] 
+ 02       (00) 340999990000000020       20310     Safety helmet EN 397, white                  10        200       90,0      128,0 [X] 
+ 03       (00) 340999990000000037       20310     Safety helmet EN 397, white                  10        200       90,0      128,0 [X] 
+ 04       (00) 340999990000000044       20310     Safety helmet EN 397, white                  10        200       90,0      128,0 [X] 
+ 05       (00) 340999990000000051       20455     Hi-vis vest cl. 2, size L                    12        600      132,0      171,0 [X] 
+                                        20455     Hi-vis vest cl. 2, size L                     6        300       66,0 
+ 06       (00) 340999990000000068                                                                                            174,0 [X] 
+                                        20456     Hi-vis vest cl. 2, size XL                    6        300       69,0 
+                                        20120     Safety gloves cut C, size 9                  10      1 200       96,0 
+ 07       (00) 340999990000000075                                                                                            239,0 [X] 
+                                        20125     Safety gloves cut C, size 10                 10      1 200      102,0 
+                                        20120     Safety gloves cut C, size 9                  10      1 200       96,0 
+ 08       (00) 340999990000000082                                                                                            239,0 [X] 
+                                         20125    Safety gloves cut C, size 10                 10      1 200      102,0 
+                                        20120     Safety gloves cut C, size 9                  10      1 200       96,0 
+ 09       (00) 340999990000000099                                                                                            239,0 [X] 
+                                        20125     Safety gloves cut C, size 10                 10      1 200      102,0 
+  10      (00) 340999990000000105       20510     Hearing protector, helmet-mount              16        320      112,0      152,0 [X] 
+  11      (00) 340999990000000112        20510    Hearing protector, helmet-mount              16        320      112,0      152,0 [X] 
+  12      (00) 340999990000000129        31200    Safety net 6 x 10 m, EN 1263-1                6          6      270,0      304,0 [X] 
+  13                                                                                                                               [X] 
+          (00) 340999990000000136        31200    Safety net 6 x 10 m, EN 1263-1                6          6      270,0      304,0 
+  14      (00) 340999990000000143        31200    Safety net 6 x 10 m, EN 1263-1                6          6      270,0      304,0 [X] 
+                                                  Subtotal pallets 01-14 (marks HST-2604/01-14) 174             2 255,0    2 790,0 
+  15      (00) 340999990000000150        10045    Fire extinguisher 6 kg ABC, EN 3             30         30      306,0      348,0 [X] wrap 
+  16      (00) 340999990000000167        10045    Fire extinguisher 6 kg ABC, EN 3             30         30      306,0      348,0 [X] 
+  17      (00) 340999990000000174        10045    Fire extinguisher 6 kg ABC, EN 3             30         30      306,0      348,0 [X] 
+  18      (00) 340999990000000181        10045    Fire extinguisher 6 kg ABC, EN 3             30         30      306,0      348,0 [X] 
+  19      (00) 340999990000000198        10045    Fire extinguisher 6 kg ABC, EN 3             30         30      306,0      348,0 [X] 
+  20      (00) 340999990000000204        10045    Fire extinguisher 6 kg ABC, EN 3             30         30      306,0      348,0 [X] 
+                                                  Subtotal pallets 15-20 (marks HST-2604/15-20) 180             1 836,0    2 088,0 
+  21      (00) 340999990000000211        70110    Marking paint aerosol 500 ml, red UN1950 LQ 48         576      230,4      268,0 [X] 
+                                         70110    Marking paint aerosol 500 ml, red UN1950 LQ 30         360      144,0 
+ 22       (00) 340999990000000228                                                                                            268,0    missing 
+                                         70115    Marking paint aerosol 500 ml, white UN1950 LQ 18       216       86,4 
+                                                  Subtotal pallets 21-22 (UN 1950 LQ)          96                 460,8      536,0 
+                                                  TOTAL 22 pallets · 33,79 m3                 450               4 551,8    5 414,0 
+
+ Gross weight includes EUR pallet (approx. 25 kg), stretch wrap and corner boards. Pallet dimensions 120 x 80 x 160 cm (1,536 m3) unless stated. 
+ Aerosol pallets (21-22) packed as limited quantity (LQ) according to ADR 3.4; LQ marking on all sides. Do not double-stack. 
+
+ Packed and checked by: K. Brandt        18.05. 
+                                                                                                        RECEIVED WITH 
+                                                                                                                          RESERVATION 
+                                                                                                          Kestora · Goods 
+                                                                                                                       receiving · 21.05.2026 
+
+                                                                                                         Claim to carrier sent 21.5. - TN 
+
+                                           Sample document for parser testing - fictional companies, vehicles and references 
+<<<

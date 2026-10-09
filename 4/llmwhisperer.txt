@@ -1,0 +1,126 @@
+FACILITY SERVICES AGREEMENT · FSA-2026-014 . v1.2                                                                                  CONFIDENTIAL 
+
+                                                                                                                  Agreement no.                 FSA-2026-014 
+             FACILITY SERVICES AGREEMENT                                                                          Version                           1.2 (final) 
+             Cleaning, technical maintenance and security services                                                Document date                 10 June 2026 
+
+              SUPPLIER                                              (the "Supplier")     CUSTOMER                                             (the "Customer") 
+              Aurora Facility Services Oy                                                Nordic Build Solutions Oy 
+              Business ID 1618033-9                                                      Business ID 2718281-8 
+              Valimotie 21, 00380 Helsinki                                               Ratakatu 12 B, 00120 Helsinki 
+              Contact: Mika Rantanen, Key Account Manager                                Contact: Anna Virtanen, Site Manager 
+              mika.rantanen@aurora-fs.example                                           anna.virtanen@nordicbuild.example 
+
+            The Supplier and the Customer are each a "Party" and together the "Parties". This Agreement consists of this document and 
+            its Schedules 1 and 2. 
+              KEY TERMS SUMMARY                                                                                           For convenience only - see Section 12.2 
+              Effective Date                                           1 July 2026     Initial Term                                              24 months 
+              Renewal                              Automatic, 12 months at a time      Termination notice                        3 months before term end 
+              Estimated annual value                      EUR 230 000 (excl. VAT)      Payment terms                                            14 days net 
+              Price adjustment                                    Annual, cap 4 %      Liability cap                                100 % of 12-month fees 
+              Governing law                                                Finland     Sites                                             3 (see Schedule 1) 
+
+             1.    DEFINITIONS 
+             1.1   "Services" means the cleaning, technical maintenance and security services described in Schedule 1 and priced in 
+                   Schedule 2. "Site" means each property listed in Schedule 1. "Monthly Fee" means the fixed monthly fee per Site set 
+                   out in Schedule 2, excluding VAT. 
+             1.2   "Business Day" means a day other than a Saturday, Sunday or public holiday in Finland. "Incident" means any fault or 
+                   request reported to the Supplier's service desk. 
+            2.     SCOPE OF SERVICES 
+            2.1    The Supplier shall provide the Services at each Site from the start date stated for that Site in Schedule 1, which may 
+                   differ from the Effective Date. 
+            2.2    Additional work ordered in writing by the Customer is invoiced at the hourly rates in Schedule 2, Part B, subject to the 
+                   minimum charge stated there. 
+
+            3.     TERM AND TERMINATION 
+            3.1    This Agreement enters into force on 1 July 2026 (the "Effective Date") and continues for an initial term of twenty-four 
+                   (24) months (the "Initial Term").                                     Six ( 6 ) 
+MR           3.2   Either Party may give written notice of non-renewal at least three (3) months before the end of the then-current term. 
+AV                 Unless such notice is given, this Agreement renews automatically after the Initial Term for successive periods of twelve 
+                   (12) months. 
+             3.3   Either Party may terminate this Agreement with immediate effect by written notice if the other Party materially 
+                   breaches it and fails to remedy the breach within thirty (30) days of a written request to do so. 
+             3.4   Upon termination for any reason, the Customer shall pay all fees for Services performed up to the date of termination. 
+                   Sections 6, 7 and 8 survive termination. 
+
+            4.     SERVICE LEVELS 
+             4.1   The Supplier shall meet the response times and monthly targets below. Response time is measured from the moment an 
+                   Incident is logged with the service desk. 
+                                                Response time by priority 
+             Service                                                              Monthly target             Service credit* 
+                                       Critical     High         Normal 
+             Technical maintenance         1 h          4 h        2 Bus. Days    98 % on time               5 % of Monthly Fee per breach, max 15 % 
+             Cleaning                      2 h        Next day     Weekly plan    Quality score ≥ 4.0        3 % per 0.1 below target, max 10 % 
+             Security                    15 min          1 h            -         99 % patrols completed     5 % per breach, max 15 % 
+             * Service credits are deducted from the next invoice and are the Customer's sole financial remedy for service level breaches, without prejudice to Section 3.3. 
+
+            Aurora Facility Services Oy . Nordic Build Solutions Oy                             Initials: MR          AV                           Page 1 of 2 
+
+                                                               Sample document for parser testing - fictional parties 
+<<<
+
+FACILITY SERVICES AGREEMENT · FSA-2026-014 . v1.2                                                              CONFIDENTIAL 
+
+5.   PRICES AND PAYMENT 
+5.1   The Customer shall pay the Monthly Fees and hourly charges set out in Schedule 2. All prices are in euros and exclude 
+     value added tax, which is added at the rate in force from time to time. 
+5.2   The Supplier may adjust the prices once per calendar year, with effect from 1 January, by giving sixty (60) days' written 
+      notice. The first adjustment may take effect on 1 January 2028. Any adjustment shall not exceed the change in the 
+      official labour cost index for the service sector during the preceding twelve months and in no event four per cent (4 %). 
+5.3 The Supplier invoices the Monthly Fees in advance on the first Business Day of each month and additional work monthly 
+      in arrears. Invoices are payable within twenty-one (21) days of the invoice date. Late payments bear interest in 
+      accordance with the Finnish Interest Act. 
+
+6.    LIABILITY 
+6.1   Neither Party is liable for indirect or consequential loss, including loss of profit or business interruption, except in the 
+      case of wilful misconduct or gross negligence. 
+6.2   Each Party's total liability under this Agreement in any contract year is limited to an amount equal to the fees paid or 
+      payable by the Customer during the twelve (12) months preceding the event giving rise to liability, but not less than 
+      EUR 100 000. 
+
+7.   CONFIDENTIALITY 
+7.1   Each Party shall keep confidential all information received from the other Party that is marked confidential or should 
+      reasonably be understood to be confidential, during the term and for three (3) years thereafter. 
+
+8.    GOVERNING LAW AND DISPUTES 
+8.1 This Agreement is governed by the laws of Finland. Disputes shall first be negotiated in good faith and, failing 
+      agreement within thirty (30) days, settled in the Helsinki District Court. 
+
+12.   MISCELLANEOUS 
+12.2 In the event of any conflict, the numbered Sections of this Agreement prevail over the Schedules, and both prevail over 
+      the Key Terms Summary, which is included for convenience only. 
+
+SCHEDULE 1 - SITES AND SCOPE 
+                                                                     Services included 
+ Site ID Address                                    Area m2                               Start date      Notes 
+                                                              Clean.    Maint.   Secur. 
+ HT-01    Harbour Tower, Satamakatu 8, 00160 Helsinki 12 400      [X]      [X]       [X]   1 July 2026    Main site 
+ HT-02    Site office, Satamakatu 10, 00160 Helsinki    1 850     [X]      [X]       [X]   1 July 2026 
+ HT-03    Material yard, Hernesaarenranta 3, 00150 Hki 4 200      [X]                [X]   1 Sept 2026    Added in v1.2 
+
+SCHEDULE 2 - PRICES (EUR, excl. VAT) 
+                                                    Part A: Monthly Fee per Site              Part B: Hourly rate ** 
+ Category        Service                       HT-01 
+                                                          HT-02       HT-03      Weekday      Eve./Night   Weekend/Hol. 
+                 Daily cleaning                   4 850,00   2 300,00    1 150,00       38,50        52,00            64,00 
+ Cleaning 
+                 Window cleaning (per occasion) *** 1 200,00 per occasion, all Sites      -             -                - 
+                 Preventive maintenance           3 200,00   1 400,00         -         62,00        86,00           104,00 
+ Technical maint. 
+                 On-call technician               Included in preventive maintenance    62,00        86,00           104,00 
+ Security        Patrol and alarm response        2 100,00   2 100,00        incl.      41,00        49,50            58,00 
+ ** Weekday 07-18, evening/night 18-07, weekend and public holidays all day. Minimum charge 2 hours per call-out. 
+ *** Four (4) occasions per year included in the HT-01 Monthly Fee; additional occasions on order. 
+
+SIGNATURES 
+This Agreement has been signed in two (2) identical electronic or paper copies, one for each Party. 
+For Aurora Facility Services Oy                                 For Nordic Build Solutions Oy 
+Place and date: Helsinki, 12 June 2026                          Place and date: Vantaa, 15 June 2026 
+
+   Mika Rantanen                                                  A.     Virtanen 
+Mika Rantanen, Key Account Manager                              Anna Virtanen, Site Manager (by proxy) 
+
+Aurora Facility Services Oy . Nordic Build Solutions Oy                Initials: MR       AV                       Page 2 of 2 
+
+                                           Sample document for parser testing - fictional parties 
+<<<
