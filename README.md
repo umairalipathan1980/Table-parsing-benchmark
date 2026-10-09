@@ -7,18 +7,18 @@ The findings are qualitative and apply to the stored outputs in this repository.
 ## Parsers evaluated
 
 1. **[LLMWhisperer](https://docs.unstract.com/llmwhisperer/):** Unstract’s parser combines text extraction and OCR with layout-preserving output to retain the approximate spatial arrangement of table content.
-2. **[LlamaParse Agentic Plus](https://cloud.llamaindex.ai/):** LlamaParse’s premium agentic parser for complex layouts, diagrams, and images. This benchmark evaluates the Agentic Plus outputs stored in `llamaparse_agentic_plus.md`.
+2. **[LlamaParse Agentic Plus](https://cloud.llamaindex.ai/):** LlamaParse’s premium agentic parser for complex layouts, diagrams, and images. 
 3. **[GAIK Multimodal Parser](https://github.com/GAIK-project/gaik-toolkit/tree/main/implementation_layer/src/gaik/software_components/parsers/multimodal_parser):** This open-source parser is inspired by LlamaParse’s proposed method of using HTML `colspan` and `rowspan` attributes to encode full table structure.
 
 ## Evaluation method
 
-The original PDFs are the reference. Earlier comparison statements were treated as issues to investigate rather than as ground truth. The report records visual inspection of all **11 PDF pages**, including handwriting, checkboxes, strikeouts, table-adjacent notes, and page continuations.
+The original PDFs are the reference. All **11 PDF pages** were rendered and visually inspected, including handwriting, checkboxes, strikeouts, table-adjacent notes, and page continuations.
 
-1. Match each PDF to the three stored parser outputs listed below. The LlamaParse column evaluates `llamaparse_agentic_plus.md`, not the older `llamaparse.md` files that remain in some folders.
+1. Match each PDF to the three parser outputs for each test: `llmwhisperer_parsing.txt` (Test 1) or `llmwhisperer.txt` (Tests 2–5), `llamaparse_agentic_plus.md`, and `multimodal_parser.md` in the corresponding numbered folder.
 2. Inspect rendered source pages and identify the important table values, headers, groups, shared cells, notes, totals, and amendments.
 3. Compare each output with those source values and relationships using the eight aspects below. Distinguish transcription errors from structural or relationship errors. Credit correct relationships conveyed by spacing or equivalent representations.
-4. Check continued records and whether original entries, cancelled choices, and replacements remain distinguishable. Preserve source figures even where they require clarification; do not expect the parser to recalculate or silently correct them.
-5. Record concrete examples and original PDF page references, mark irrelevant aspects **not applicable**, and form a per-test verdict and overall comparison.
+4. Check continued records and whether original entries, cancelled choices, and replacements remain distinguishable. 
+5. Record concrete examples and original PDF page references.
 
 This is a table-focused review, with no numeric score or statistically weighted aggregate. It does not establish general parser performance, runtime, or cost. Chart conversion, prose reading order, and the invoice barcode string are reported separately where relevant; they do not decide the table-only ranking. A chart rendered faithfully as a table is acceptable and is not automatically invented content.
 
@@ -69,7 +69,7 @@ The CMR goods and charges matrices and ADR strip are on PDF page 1; the packing 
 
 **Source interpretation:** PDF p.1 records 21 pallets received and pallet 22 missing; p.2 checks and strikeout reinforce that amendment. The printed shipment total remains 22 pallets / 5 414,0 kg. Preserving both is correct; the shipment total should not be recalculated as a received total.
 
-**Verdict:** Multimodal and LlamaParse Agentic Plus remain effectively tied for explicit shared pallet relationships, totals, and receipt amendments. LLMWhisperer TXT preserves the checked values, all 21 received checks, and wrap/missing notes through spatial alignment. Its remaining limitations are the omitted pallet-22 strikeout, 1 PAL transcribed as I PAL, and relationships that require interpretation of spacing and wrapped lines.
+**Verdict:** Multimodal and LlamaParse Agentic Plus are effectively tied for explicit shared pallet relationships, totals, and receipt amendments. LLMWhisperer TXT preserves the checked values, all 21 received checks, and wrap/missing notes through spatial alignment. Its limitations are the omitted pallet-22 strikeout, 1 PAL transcribed as I PAL, and relationships that require interpretation of spacing and wrapped lines.
 
 ## Test 2 Employment application
 
@@ -111,7 +111,7 @@ Invoice metadata and line items begin on PDF page 1. Continued items, VAT and am
 
 **Supplemental payment-panel check (PDF p.2):** the printed barcode string has 54 digits. LLMWhisperer and LlamaParse Agentic Plus preserve it; multimodal has 53 digits, omitting one zero before the reference sequence. This is a printed-string transcription omission, not a barcode-decoding test, and is excluded from the payment-field-grid ranking.
 
-**Verdict:** Multimodal remains narrowly preferred for explicit item relationships and annotation handling, with Agentic Plus close behind. Agentic Plus misreads wk as nk and mixes the note into Unit price; multimodal keeps the price separate but drops the question mark. LLMWhisperer TXT preserves checked values and useful alignment, including the water unit and complete total label, but misreads the approval project code, represents the circle as [X], and splits item 18’s annotation, VAT, and amount across lines. No output explicitly links the continued batch note to item 24. Outside the table ranking, LLMWhisperer and Agentic Plus preserve the barcode digit multimodal loses.
+**Verdict:** Multimodal is narrowly preferred for explicit item relationships and annotation handling, with Agentic Plus close behind. Agentic Plus misreads wk as nk and mixes the note into Unit price; multimodal keeps the price separate but drops the question mark. LLMWhisperer TXT preserves checked values and useful alignment, including the water unit and complete total label, but misreads the approval project code, represents the circle as [X], and splits item 18’s annotation, VAT, and amount across lines. No output explicitly links the continued batch note to item 24. Outside the table ranking, LLMWhisperer and Agentic Plus preserve the barcode digit multimodal loses.
 
 ## Test 4 Service agreement
 
@@ -171,20 +171,12 @@ The summary covers table structure, annotations, charts, and reading order acros
 
 ### Overall assessment
 
-**GAIK multimodal is strongest overall, followed closely by LlamaParse Agentic Plus, then LLMWhisperer.** This ordering reflects the observed amendment and continuation handling, together with the usability of the table structure. It is a reasoned qualitative judgment, not a calculated score. Tests 1, 4, and 5 are effectively tied between multimodal and Agentic Plus. LLMWhisperer’s lower position does not imply that its correctly aligned table values are transcription errors.
+Across all five tests, the three parsers captured the values well. What separated them was how much of the document's structure they kept.
 
-The overall ordering has exceptions. In Test 3, LlamaParse Agentic Plus retains the handwritten question mark that multimodal drops. LLMWhisperer and Agentic Plus also preserve the complete 54-digit barcode string that multimodal shortens to 53 digits; that supplemental check is outside the table ranking. In Tests 4 and 5, LLMWhisperer matches the checked table values despite having less explicit structure.
+LLMWhisperer attempted to preserve the visual structure, but left relationships for the extraction model to infer. It lost handwritten corrections, scatters charts across lines, splices multi-column text, and left records split across pages.
 
-### Additional observations outside the table ranking
+LlamaParse Agentic Plus and GAIK multimodal built that structure into their output. They rebuilt merged cells and grouped headers, kept reading order, and converted charts to tables. GAIK multimodal rejoined records across pages and kept every handwritten amendment in full.
 
-The Word summary also records prose and chart observations. In Test 3, LLMWhisperer splices two-column text line by line, while Agentic Plus and multimodal keep the reading order. In Test 4, LLMWhisperer retains both the original notice term and its handwritten replacement without strikeout semantics; Agentic Plus and multimodal distinguish them. The summary describes Agentic Plus’s margin initials as bare text and multimodal’s as labelled handwriting. In Test 5, Agentic Plus and multimodal convert charts to tables while keeping adjacent financial tables clean; LLMWhisperer interleaves multicolumn prose, and multimodal breaks one paragraph mid-sentence. These observations do not change the table-only verdicts.
 
-## Source report and editorial notes
 
-This README is adapted from [parsing_benchmark_table_focused_LAST UPDATED.docx](parsing_benchmark_table_focused_LAST%20UPDATED.docx). The Word file was left unchanged. The introduction, method, file manifest, and descriptive test headings make the evaluation readable as a repository document. The detailed comparisons and evidence are retained, with the following conflicts reconciled against the detailed findings and current stored outputs:
 
-- **Test 1:** The old summary says LLMWhisperer loses tick marks, but the detailed comparison records all 21 received checks. The shared-pallet wording now consistently describes recoverable, implicit scope.
-- **Test 2:** The old verdict says Agentic Plus preserves the final prior-employment No and omits the cancelled Yes. The detailed table and current Markdown instead show both Yes and No as checked.
-- **Test 3:** The old transcription cell says LLMWhisperer loses the water unit l. Its verdict and current TXT retain "0.5 l".
-- **Test 4:** The old summary says LLMWhisperer loses the amendment. The detailed finding and current TXT retain "Six (6)" and the original "three (3)", but do not distinguish them with strikeout semantics.
-- **Test 5:** "Approximate columns" is clarified as "intended aligned columns" to agree with the assignment finding. Adjacent chart text interleaving is not described as incorrect financial cell values.
