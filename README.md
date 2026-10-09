@@ -4,6 +4,12 @@ This benchmark evaluates how faithfully three parsers—**LLMWhisperer**, **Llam
 
 The findings are qualitative and apply to the stored outputs in this repository. Multimodal performs best overall on amendments and continued records, with LlamaParse Agentic Plus close behind. Several tests are effectively tied. LLMWhisperer often preserves the checked values and relationships through spatial alignment, while requiring more interpretation for reuse. Explicit table markup improves usability; its presence alone does not establish greater fidelity.
 
+## Parsers evaluated
+
+1. **[LLMWhisperer](https://docs.unstract.com/llmwhisperer/):** Unstract’s parser combines text extraction and OCR with layout-preserving output to retain the approximate spatial arrangement of table content.
+2. **[LlamaParse Agentic Plus](https://cloud.llamaindex.ai/):** LlamaParse’s premium agentic parser for complex layouts, diagrams, and images. This benchmark evaluates the Agentic Plus outputs stored in `llamaparse_agentic_plus.md`.
+3. **[GAIK Multimodal Parser](https://github.com/GAIK-project/gaik-toolkit/tree/main/implementation_layer/src/gaik/software_components/parsers/multimodal_parser):** This open-source parser is inspired by LlamaParse’s proposed method of using HTML `colspan` and `rowspan` attributes to encode full table structure.
+
 ## Evaluation method
 
 The original PDFs are the reference. Earlier comparison statements were treated as issues to investigate rather than as ground truth. The report records visual inspection of all **11 PDF pages**, including handwriting, checkboxes, strikeouts, table-adjacent notes, and page continuations.
